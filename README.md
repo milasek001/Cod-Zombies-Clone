@@ -25,6 +25,8 @@ Základní seznam funkcionalit:
 - Plynulý pohyb hráče a nepřátel 
 
 - Základní uživatelské rozhraní – tím se myslí: zdraví, kolikátá vlna, munice
+
+- Hlavní menu
  
 - Zvukové efekty
   
